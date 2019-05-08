@@ -8,7 +8,7 @@ class Db
     private $dbUser         = "root";
     private $dbPass         = "LocalDb2018";
     private $dbName         = "course_coupons";
-    private $charSet   = "utf8";
+    private $charSet        = "utf8";
 
 
     public function connect(){
